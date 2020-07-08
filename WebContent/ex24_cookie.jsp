@@ -31,17 +31,17 @@
 
 	1) setDomain(String pattern)	: 쿠키가 전송될 서버의 도메인을 지정
 	
-	2) getDomain()		: 쿠키의 도메인을 구함
+	2) getDomain()					: 쿠키의 도메인을 구함
 	
-	3) setPath()		: 쿠키의 전송 경로를 지정
+	3) setPath()					: 쿠키의 전송 경로를 지정
 	
-	4) getPath()		: 쿠키의 전송 경로를 호출
+	4) getPath()					: 쿠키의 전송 경로를 호출
 	
-	5) getName()		: 쿠키의 이름 호출
+	5) getName()					: 쿠키의 이름 호출
 	
-	6) getValue()		: 쿠키의 값을 호출
+	6) getValue()					: 쿠키의 값을 호출
 	
-	7) setMaxAge(int)	: 쿠키의 유효 시간을 초단위로 지정
+	7) setMaxAge(int)				: 쿠키의 유효 시간을 초단위로 지정
 
 --%>
 
